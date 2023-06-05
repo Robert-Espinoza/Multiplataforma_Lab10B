@@ -1,0 +1,16 @@
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\bin\Debug\netstandard2.0\Lab10B.deps.json
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\bin\Debug\netstandard2.0\Lab10B.dll
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\bin\Debug\netstandard2.0\Lab10B.pdb
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\Lab10B.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\Lab10B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\PickerDemo.xaml.g.cs
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\Lab10B.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\Lab10B.AssemblyInfo.cs
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\Lab10B.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\Lab10B.dll
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\refint\Lab10B.dll
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\Lab10B.pdb
+C:\Users\Robert\source\repos\Lab10B\Lab10B\Lab10B\obj\Debug\netstandard2.0\ref\Lab10B.dll
